@@ -1,0 +1,104 @@
+leftnav:
+- identifier: c5470c50-23f8-351c-954c-2003c1ee7b90
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: dd6e0248-bb1f-8092-8db1-114c7a3dc16d
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 8ebf78ca-3e98-5f10-7ca7-bb2c66782d09
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 05ed9aaf-8f7f-d6a3-8f50-6a4c34f5231a
+  name: Facilitating Peer-Review Workshops
+  pageRef: /pages/instructor-insights/peer-feedback
+  parent: 8ebf78ca-3e98-5f10-7ca7-bb2c66782d09
+  weight: 40
+- identifier: 96936728-b1e0-0dee-640b-c6bef7ccae7d
+  name: Learning Actively through Communication Experiments
+  pageRef: /pages/instructor-insights/in-class-activities-communication-experiments
+  parent: 8ebf78ca-3e98-5f10-7ca7-bb2c66782d09
+  weight: 50
+- identifier: 5f7001ce-9d0b-99ee-5e5a-bbaf3f9846ed
+  name: Course Iteration
+  pageRef: /pages/instructor-insights/course-iteration
+  parent: 8ebf78ca-3e98-5f10-7ca7-bb2c66782d09
+  weight: 60
+- identifier: 20cfb4e0-1be3-a0c0-1f54-a6ff5863ea7d
+  name: Readings & Reading Responses
+  pageRef: /pages/ReadingsandReadingResponses
+  weight: 70
+- identifier: b367a6bd-4bca-d922-e347-35a8db93aadf
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 80
+- identifier: 54c6923e-3e27-a41a-4395-2fa8e491326f
+  name: '''In the Frame'' Description'
+  pageRef: /pages/assignments/in-the-frame-description
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 90
+- identifier: 3882a089-cb77-4dec-02bd-ae53ac56d184
+  name: Rhetorical Analysis of a News Article
+  pageRef: /pages/assignments/rhetorical-analysis-of-a-news-article
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 100
+- identifier: 476b3ed5-8cac-ddb3-9557-3c082b99cbe9
+  name: An Engaging Translation
+  pageRef: /pages/assignments/an-engaging-translation
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 110
+- identifier: ad74842c-137d-f806-2b8f-b502440ec687
+  name: 'Peer-Review Workshop: An Engaging Translation'
+  pageRef: /pages/assignments/peer-review-workshop-an-engaging-translation
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 120
+- identifier: 2481034b-49a5-082c-74b0-61b19720ae24
+  name: The "Awesome" Profile
+  pageRef: /pages/assignments/the-awesome-profile
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 130
+- identifier: bc51b443-2ca2-31e1-2770-d8dab2bc66cc
+  name: Strategies for Interviewing Strangers
+  pageRef: /pages/assignments/strategies-for-interviewing-strangers
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 140
+- identifier: a455d86c-76d2-05c0-c069-7a2642561476
+  name: 'Peer-Review Workshop: The "Awesome" Profile'
+  pageRef: /pages/assignments/peer-review-workshop-the-awesome-profile
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 150
+- identifier: e6283eb0-043d-0cd3-661a-9d46b91bc58a
+  name: Proposal for Investigative Research Article
+  pageRef: /pages/assignments/proposal-for-investigative-research-article
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 160
+- identifier: c71664d9-dead-3d50-0887-fcc286de2cb4
+  name: Investigative Research Article
+  pageRef: /pages/assignments/investigative-research-article
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 170
+- identifier: 1c275b7e-c353-5c3b-4dc8-a7c74c4fe472
+  name: Tips for Leading Discussions
+  pageRef: /pages/assignments/tips-for-leading-discussions
+  parent: b367a6bd-4bca-d922-e347-35a8db93aadf
+  weight: 180
+- identifier: caf2e285-9468-753e-d768-bb3bb21a73a3
+  name: In-class Activities
+  pageRef: /pages/in-class-activities
+  weight: 190
+- identifier: 00a18794-dd94-2498-c20c-1c465351aa93
+  name: Communication Experiments
+  pageRef: /pages/communication-experiments/
+  weight: 200
+- identifier: 19f8002c-d38e-8dd3-e049-6dcabe548308
+  name: Sessions 1-9
+  pageRef: /pages/communication-experiments/sessions-1-9
+  parent: 00a18794-dd94-2498-c20c-1c465351aa93
+  weight: 210
+- identifier: 627f3974-c25a-a707-76bc-c7de064514c3
+  name: Sessions 10-22
+  pageRef: /pages/communication-experiments/sessions-9-21/
+  parent: 00a18794-dd94-2498-c20c-1c465351aa93
+  weight: 220
